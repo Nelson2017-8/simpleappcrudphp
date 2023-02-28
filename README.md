@@ -12,7 +12,7 @@ Para el ejercicio se uso [laragon](https://laragon.org/download/index.html) para
 
 ## Instalación
 
-Clonar el repositorio y guardar en carpeta local dentro del directorio raiz de su servidor PHP, en el caso de laragon debe copiar la carpeta en C:\laragon\www. Abrir la carpeta desde la terminal e instalar los siguientes paquetes de python.
+Clonar el repositorio y guardar en carpeta local dentro del directorio raiz de su servidor PHP, en el caso de laragon debe copiar la carpeta en [C:\laragon\www]. Abrir la carpeta desde la terminal e instalar los siguientes paquetes de python.
 
 Cargamos las dependecias
 ```
