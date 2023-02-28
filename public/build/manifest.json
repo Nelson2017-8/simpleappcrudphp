@@ -5,8 +5,28 @@
     "src": "resources/css/app.css"
   },
   "resources/js/app.js": {
-    "file": "assets/app-a6d2e222.js",
+    "dynamicImports": [
+      "resources/js/vue/web/UpdateUser.vue",
+      "resources/js/vue/web/QueryUser.vue"
+    ],
+    "file": "assets/app-0ad7e24e.js",
     "isEntry": true,
     "src": "resources/js/app.js"
+  },
+  "resources/js/vue/web/QueryUser.vue": {
+    "file": "assets/QueryUser-43589dc0.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/vue/web/QueryUser.vue"
+  },
+  "resources/js/vue/web/UpdateUser.vue": {
+    "file": "assets/UpdateUser-12270542.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/js/vue/web/UpdateUser.vue"
   }
 }
